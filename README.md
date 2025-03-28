@@ -2,7 +2,7 @@
 
 This repository provides a clean and minimal template for developing React Native (RN) applications using NativeWind. 
 
-I created this template to serve as a reliable starting point, after almost always encountering issues when setting up NativeWind in a new RN project—whether following the official documentation or various online tutorials.
+I created this template to serve as a reliable starting point, after almost always encountering issues when setting up NativeWind in a new RN project (whether following the official documentation or various online tutorials).
 
 ## How to Use
 
